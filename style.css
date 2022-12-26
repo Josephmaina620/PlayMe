@@ -1,0 +1,27 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #232b2b;
+    color: #FAF9F6;
+    line-height: 1.5;
+    scroll-behavior: smooth;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+
+}
+h2 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+
+}
